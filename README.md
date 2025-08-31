@@ -10,15 +10,14 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 * Nome: Gustavo Fitipaldi Moreira
 * Matricula: 900609
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Proposta de projeto escolhida: Honestamente só vi que era pra criar o MEU PROPRIO wireframe ao final do projeto.
+- Breve descrição sobre seu projeto: Uma tela criativa e autoral simulando o youtube.
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
-
+![alt text](public/image.png)
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](public/imageFinal.png)
