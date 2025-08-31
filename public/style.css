@@ -10,3 +10,61 @@ body {
     color: #333;
     line-height: 1.6;
 }
+
+.cabecalho-principal {
+    background-color: #fff;
+    border-bottom: 1px solid #ddd;
+    padding: 8px 16px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+}
+
+.container-cabecalho {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.area-logo .logotipo {
+    height: 40px;
+    width: auto;
+}
+
+.formulario-busca {
+    display: flex;
+    align-items: center;
+    flex: 1;
+    max-width: 600px;
+    margin: 0 40px;
+}
+
+.caixa-busca {
+    flex: 1;
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 2px 0 0 2px;
+    font-size: 16px;
+    outline: none;
+}
+
+.caixa-busca:focus {
+    border-color: #1976d2;
+}
+
+.botao-busca {
+    padding: 8px 16px;
+    background-color: #f8f8f8;
+    border: 1px solid #ccc;
+    border-left: none;
+    border-radius: 0 2px 2px 0;
+    cursor: pointer;
+}
+
+.botao-busca:hover {
+    background-color: #f0f0f0;
+}
